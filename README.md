@@ -10,7 +10,7 @@ I did manage to write 322 entries and did some analyses:<br>
 4. Clustering the days using k-means and Affinity Propagation
 5. Word Cloud
 
-The blogpost that explains more about this is here: <a href="https://lasasimi.com/?p=669&preview=true">2022 End of Year Review with Python</a>
+**The blogpost that explains more about this is here: <a href="https://lasasimi.com/?p=669&preview=true">2022 End of Year Review with Python</a>**
 
 The libraries that I used:<br>
 - for wrangling: `pandas`, `numpy`, `re`<br>
